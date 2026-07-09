@@ -35,13 +35,6 @@ A full-stack application for managing food items and tracking expiry dates. Feat
 
 A recipe-sharing platform where users can create, browse, and manage recipes. Includes authentication, protected routes, cuisine filtering, sorting, likes, and dark mode support.
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LEon-SIkhDER&show_icons=true&theme=tokyonight" />
-</p>
-
-
 ## Connect With Me
 
 - Portfolio: [leon-sikhder.web.app](https://leon-sikhder.web.app)
