@@ -1,4 +1,4 @@
-# Hi, I'm Leon Sikhder
+# Hi 👋, I'm Leon Sikhder
 
 ## About Me
 
